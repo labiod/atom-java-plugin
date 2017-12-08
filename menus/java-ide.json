@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Show/Hide toolbar",
+        "command": "java-ide:show"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "java-ide",
+          "submenu": [
+            {
+              "label": "Show/Hide tollbar",
+              "command": "java-ide:show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
