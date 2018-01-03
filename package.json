@@ -9,7 +9,10 @@
     "atom-workspace": [
       "java-ide:show",
       "java-ide:run",
-      "java-ide:stop"
+      "java-ide:stop",
+      "java-ide:settings-open",
+      "java-ide:settings-close",
+      "java-ide:reload"
     ]
   },
   "repository": "https://github.com/atom/java-ide",
